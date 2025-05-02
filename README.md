@@ -1,26 +1,36 @@
-🎓 Computer Science Undergraduate | Aspiring Data Scientist | Data Enthusiast
-📊 Passionate about uncovering insights from data and building intelligent systems.
+# 👋 Hi there, I'm Sajal Vijayvargiya!
 
-Hi! I'm Sajal Vijayvargiya, a 2nd-year B.Tech CSE student with a strong interest in Data Science, Machine Learning, and Data Analytics. I enjoy solving real-world problems using data, and I'm currently sharpening my skills in Python, DSA, and Deep Learning.
+🎓 **Computer Science Undergraduate** | 📊 **Aspiring Data Scientist** | 🔍 **Data Enthusiast**
 
-🚀 Currently Working On:
+Welcome to my GitHub! I'm a 2nd-year B.Tech CSE student passionate about using data to solve real-world problems. My interests lie in **Data Science**, **Machine Learning**, and **Analytics**, and I'm on a journey to turn data into insights and smart systems.
 
-Mastering core DSA with Striver’s A2Z Sheet
+---
 
-Projects involving EDA, ML models, and visual storytelling
+## 🚀 Currently Working On:
+- 📚 Sharpening my DSA skills with Striver’s A2Z Sheet
+- 🧪 Building ML & Data Analysis projects using Python
+- 🧠 Learning Deep Learning (CNNs and beyond)
 
-Learning CNNs and building end-to-end ML projects
+---
 
-🧠 Tech Stack:
-Python | Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow/Keras | Power BI | SQL
+## 🛠️ Tech Stack:
+- Programming: `Python`, `SQL`
+- Libraries: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`, `Seaborn`
+- Deep Learning: `TensorFlow`, `Keras`
+- Data Tools: `Power BI`, `Jupyter Notebooks`
 
-📌 Goals for 2025:
+---
 
-Land a Data Analyst/Science internship
+## 🎯 2025 Goals:
+- ✅ Land a Data Science or Analytics internship
+- 🔗 Collaborate on open-source data projects
+- 📈 Build impactful and insightful data-driven projects
 
-Contribute to open-source DS/ML projects
+---
 
-Build a portfolio of impactful data projects
+## 📫 Let’s Connect!
+I'm always up for collaboration, learning, and new opportunities in the data space.
 
-📬 Let’s Connect:
-I'm open to collaboration, learning, and internship opportunities in the data space. Feel free to reach out or check out my projects below!
+> _“Data is the new oil, but insight is the engine.”_
+
+Thanks for visiting! 🌟
