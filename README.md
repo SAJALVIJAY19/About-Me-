@@ -7,14 +7,14 @@ Welcome to my GitHub! I'm a B.Tech CSE student passionate about using data to so
 ---
 
 ## 🚀 Currently Working On:
-- 📚 Sharpening my DSA skills with Striver’s A2Z Sheet
-- 🧪 Building ML & Data Analysis projects using Python
-- 🧠 Learning Deep Learning (CNNs and beyond)
+- 📚 Sharpening my DSA skills by daily practising
+- 🧪 Building ML & Data Analysis projects 
+- 🧠 Learning Genrative AI 
 
 ---
 
 ## 🛠️ Tech Stack:
-- Programming & Scripting: 'Python', 'SQL', 'Bash', 'MS Excel' 
+- Programming & Scripting: Python, SQL, Bash, MS Excel 
 - Data Analysis & Visualization: Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Data Visualization 
 - Machine Learning & AI: Supervised & Unsupervised Learning, Statistical Modeling, Model Evaluation, Scikit-learn 
 - Deep Learning & NLP: Neural Networks, TensorFlow, Keras, Natural Language Processing (NLP), Text Preprocessing 
