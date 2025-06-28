@@ -32,10 +32,10 @@ Welcome to my GitHub! I'm a B.Tech CSE student passionate about using data to so
 ---
 
 ## 📫 Let’s Connect!
-Name: Sajal Vijayvargiya
-Email: sajalvijay10@gmail.com
-Phone no.: 9462337380
-Linkedin: https://www.linkedin.com/in/sajal-vijay-6823b7295/
+- Name: Sajal Vijayvargiya
+- Email: sajalvijay10@gmail.com
+- Phone no.: 9462337380
+- Linkedin: https://www.linkedin.com/in/sajal-vijay-6823b7295/
 I'm always up for collaboration, learning, and new opportunities in the data space.
 
 > _“Data is the new oil, but insight is the engine.”_
