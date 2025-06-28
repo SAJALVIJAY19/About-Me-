@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Undergraduate** | 📊 **Aspiring Data Scientist** | 🔍 **Data Enthusiast**
 
-Welcome to my GitHub! I'm a 2nd-year B.Tech CSE student passionate about using data to solve real-world problems. My interests lie in **Data Science**, **Machine Learning**, and **Analytics**, and I'm on a journey to turn data into insights and smart systems.
+Welcome to my GitHub! I'm a B.Tech CSE student passionate about using data to solve real-world problems. My interests lie in **Data Science**, **Machine Learning**, and **Analytics**, and I'm on a journey to turn data into insights and smart systems.
 
 ---
 
@@ -14,10 +14,13 @@ Welcome to my GitHub! I'm a 2nd-year B.Tech CSE student passionate about using d
 ---
 
 ## 🛠️ Tech Stack:
-- Programming: `Python`, `SQL`
-- Libraries: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`, `Seaborn`
-- Deep Learning: `TensorFlow`, `Keras`
-- Data Tools: `Power BI`, `Jupyter Notebooks`
+- Programming & Scripting: 'Python', 'SQL', 'Bash', 'MS Excel' 
+- Data Analysis & Visualization: Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Data Visualization 
+- Machine Learning & AI: Supervised & Unsupervised Learning, Statistical Modeling, Model Evaluation, Scikit-learn 
+- Deep Learning & NLP: Neural Networks, TensorFlow, Keras, Natural Language Processing (NLP), Text Preprocessing 
+- Computer Science Fundamentals: Data Structures & Algorithms (DSA), Database Management Systems (DBMS) 
+- Tools & Platforms: Jupyter Notebook, Power BI, Git, Google Colab, VS Code 
+- Languages: Fluent in English; Conversational Proficiency in German
 
 ---
 
