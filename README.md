@@ -45,7 +45,7 @@ Welcome to my GitHub! I'm a B.Tech CSE student passionate about using data to so
 ## 📫 Let’s Connect!
 - **Name**: Sajal Vijayvargiya  
 - **Email**: sajalvijay10@gmail.com  
-- **Phone**: 9462337380  
+- **Phone**: +91 9462337380  
 - **LinkedIn**: [linkedin.com/in/sajal-vijay-6823b7295](https://www.linkedin.com/in/sajal-vijay-6823b7295/)  
 
 ---
